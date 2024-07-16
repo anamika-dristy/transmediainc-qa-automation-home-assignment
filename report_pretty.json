@@ -1,0 +1,37 @@
+[
+    {
+        "Test case": "Create Board Test",
+        "Test scenario": "Create Board",
+        "Input": "Test",
+        "Expected result": "Board created successfully",
+        "Actual result": "Board created successfully",
+        "Status": "Passed"
+    },
+    {
+        "Test case": "Add List Test",
+        "Test scenario": "Add two lists",
+        "Input": "test_01 and test_02",
+        "Expected result": "Lists created successfully",
+        "Actual result": "Lists created successfully",
+        "Status": "Passed"
+    },
+    {
+        "Test case": "Delete List Test",
+        "Test scenario": "Delete a list",
+        "Input": "Click on delete",
+        "Expected result": "List deleted successfully",
+        "Actual result": "List deleted successfully",
+        "Status": "Passed"
+    }
+]
+
++-------------------+-----------------+---------------------+----------------------------+----------------------------+----------+
+| Test case         | Test scenario   | Input               | Expected result            | Actual result              | Status   |
++===================+=================+=====================+============================+============================+==========+
+| Create Board Test | Create Board    | Test                | Board created successfully | Board created successfully | Passed   |
++-------------------+-----------------+---------------------+----------------------------+----------------------------+----------+
+| Add List Test     | Add two lists   | test_01 and test_02 | Lists created successfully | Lists created successfully | Passed   |
++-------------------+-----------------+---------------------+----------------------------+----------------------------+----------+
+| Delete List Test  | Delete a list   | Click on delete     | List deleted successfully  | List deleted successfully  | Passed   |
++-------------------+-----------------+---------------------+----------------------------+----------------------------+----------+
+
