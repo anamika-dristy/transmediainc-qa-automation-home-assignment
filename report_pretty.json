@@ -23,7 +23,7 @@
         "Actual result": "List deleted successfully",
         "Status": "Passed"
     }
-]
+]  
 
 +-------------------+-----------------+---------------------+----------------------------+----------------------------+----------+
 | Test case         | Test scenario   | Input               | Expected result            | Actual result              | Status   |
